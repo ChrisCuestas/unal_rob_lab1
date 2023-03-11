@@ -9,6 +9,6 @@
 
 ## Descripción de solución planteada
 
-[comment]: <> (Embed the image called "Resultado2.jpg" in the README.md file)
+[comment]: <> (HTML line to embed the image called "Resultado2.jpg" in the README.md file with the size of 100x100 pixels)
 
-![Resultado2](MULTIMEDIA/Resultado2.jpg)
+<img src="MULTIMEDIA/Resultado2.jpg"  width="100" height="200">
