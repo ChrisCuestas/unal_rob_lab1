@@ -2,6 +2,8 @@
 
 ### Equipo
 - Christian Camilo Cuestas Ibáñez
+- José Daniel Suárez Vásquez
+- Daniel Vargas
 
 ## Diseño de herramienta
 
