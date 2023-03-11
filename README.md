@@ -11,4 +11,4 @@
 
 [comment]: <> (HTML line to embed the image called "Resultado2.jpg" in the README.md file with the size of 100x100 pixels)
 
-<img src="MULTIMEDIA/Resultado2.jpg"  width="100" height="200">
+<img src="MULTIMEDIA/Resultado2.jpg"  width="300" height="400">
