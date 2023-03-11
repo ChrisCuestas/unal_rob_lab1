@@ -13,6 +13,6 @@
 
 <img src="MULTIMEDIA/Resultado2.jpg"  width="300" height="400">
 
-[comment]: <> (Insertar link al video 'PrimeraEscritura.mp4' ubicado en la carpeta multimedia del repositorio)
+[comment]: <> (Insertar enlace al video 'PrimeraEscritura.mp4' ubicado en la carpeta multimedia del repositorio)
 
-![PrimeraEscritura](MULTIMEDIA/PrimeraEscritura.gif)
+![PrimeraEscritura](MULTIMEDIA/PrimeraEscritura.mp4)
