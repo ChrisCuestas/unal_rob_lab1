@@ -11,4 +11,4 @@
 
 [comment]: <> (Embed the image called "Resultado2.jpg" in the README.md file)
 
-![Resultado2]('MULTIMEDIA/Resultado2.jpg')
+![Resultado2](MULTIMEDIA/Resultado2.jpg)
