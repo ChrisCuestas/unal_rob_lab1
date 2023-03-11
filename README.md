@@ -3,7 +3,7 @@
 ### Equipo (Grupo de laboratorio Viernes 2-4PM)
 - Christian Camilo Cuestas Ibáñez
 - José Daniel Suárez Vásquez
-- Daniel Vargas
+- Hector Daniel Vargas Berdejo
 
 ## Diseño de herramienta
 
