@@ -15,6 +15,8 @@ Para la herramienta se hizo la calibracion en el laboratorio, dando los siguient
 - Y:          -8.343822mm
 - Z:          117.4335mm
 ## Descripción de solución planteada
+Para el laboratorio se hizo una Simulacion usando el Robostudio. En este se importo una archivo CAD que contiene las letras que se van a plasmar en el tablero. Y se muso un marco de referencia sobre este archivo CAD. Acontinuacion se crearon tagets para cada una de las letras  y se hizo una rutina escibir. Tambien se crearon una trayectorias para ir a home y para ahcercarce al tablero. Esto lo podemos ver en el codigo RAPID.
+
 
 ### Simulación
 
