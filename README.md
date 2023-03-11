@@ -18,7 +18,7 @@ Para la fabricación de la herramienta se utilizaron partes recicladas en impres
 <img src="HERRAMIENTA/Mecanizado 1.jpeg"  width="530" height="300">
 
 ## Descripción de solución planteada
-Para el laboratorio se hizo una Simulacion usando el Robostudio. En este se importo una archivo CAD que contiene las letras que se van a plasmar en el tablero. Y se muso un marco de referencia sobre este archivo CAD. Acontinuacion se crearon tagets para cada una de las letras  y se hizo una rutina escibir. Tambien se crearon una trayectorias para ir a home y para ahcercarce al tablero. Esto lo podemos ver en el codigo RAPID.
+Para el laboratorio se hizo una Simulación usando el Robostudio. En este se importó una archivo CAD que contiene las letras que se van a plasmar en el tablero. Y sé puso un marco de referencia sobre este archivo CAD. A continuación se crearon targets para cada una de las letras  y se hizo una rutina escribir. También se crearon unas trayectorias para ir a home de maquina y para acercarse al tablero. Esto lo podemos ver en el código RAPID.
 
 
 ### Simulación
