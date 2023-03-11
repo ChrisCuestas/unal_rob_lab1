@@ -11,3 +11,8 @@ Con el resorte se busca regular pasivamente la fuerza aplicada sobre la superfic
   - Un trazo más suave.
   - Evitar dañar el brazo y la herramienta.
 <img src="Resorte.jpeg"  width="400" height="300">
+
+
+##  Terminada
+La herramienta terminada cuenta con una tapa que permite cambiar el marcador y evita que el marcador salga del tubo por acción del resorte.
+<img src="Final.jpeg"  width="400" height="300">
