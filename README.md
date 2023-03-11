@@ -6,7 +6,7 @@
 - Hector Daniel Vargas Berdejo
 
 ## Diseño de herramienta
-Para la fabricación de la herramienta se utilizaron partes recicladas de anteriores proyectos en impresión 3D de PLA. Se hizo la calibracion en el laboratorio, dando los siguientes valores:
+Para la fabricación de la herramienta se utilizaron partes recicladas en impresión 3D de PLA. Se hizo la calibracion en el laboratorio, dando los siguientes valores:
 
 - Max error   1.43106mm
 - Min Error   0.4260973mm
@@ -14,6 +14,8 @@ Para la fabricación de la herramienta se utilizaron partes recicladas de anteri
 - X:          88.20625mm
 - Y:          -8.343822mm
 - Z:          117.4335mm
+
+<img src="HERRAMIENTA/Mecanizado 1.jpeg"  width="530" height="300">
 
 ## Descripción de solución planteada
 Para el laboratorio se hizo una Simulacion usando el Robostudio. En este se importo una archivo CAD que contiene las letras que se van a plasmar en el tablero. Y se muso un marco de referencia sobre este archivo CAD. Acontinuacion se crearon tagets para cada una de las letras  y se hizo una rutina escibir. Tambien se crearon una trayectorias para ir a home y para ahcercarce al tablero. Esto lo podemos ver en el codigo RAPID.
