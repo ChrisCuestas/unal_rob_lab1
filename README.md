@@ -9,6 +9,10 @@
 
 ## Descripción de solución planteada
 
-[comment]: <> (HTML line to embed the image called "Resultado2.jpg" in the README.md file with the size of 100x100 pixels)
+### Resultado
 
 <img src="MULTIMEDIA/Resultado2.jpg"  width="300" height="400">
+
+[comment]: <> (Insertar link al video 'PrimeraEscritura.mp4' ubicado en la carpeta multimedia del repositorio)
+
+![PrimeraEscritura](MULTIMEDIA/PrimeraEscritura.gif)
